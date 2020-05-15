@@ -1,4 +1,4 @@
-# Flashcard GUI software
+# Flashcard GUI using Tkinter
 
 This is a flashcard software that I made to store the words that I find difficult and later can revise them. the project is made using the tkinter module. Apart from this the I have also used BeautifulSoup module for web scraping the definition of the word. To convert the .py file to .exe application I have used pyinstaller.
 
