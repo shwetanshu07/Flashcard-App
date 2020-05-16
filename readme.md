@@ -20,9 +20,12 @@ Simply download the repository and go to dist -> flashcard.exe to run the applic
 ** In some cases your antivirus system might detect it as a virus and delete the .exe file. If this happens then you can put the .exe file in your antivirus whitelist.
 
 
-### Further Improvements
+### Features to Add
 
 - Progress bar to indicate the time it is going to take to add the new words
 - Ability to delete already existing decks
 - Back Button
 - Better interface
+- Refresh Button
+- Display List of all the words in a deck, maybe highlight them once covered
+- Display hint sentences
